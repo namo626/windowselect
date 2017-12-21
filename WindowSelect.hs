@@ -3,7 +3,7 @@ module WindowSelect
     currentWsWindows
   , windowPrompt
   , selectWindow
-  , Win (..)
+  , Win 
   ) where
 
 import XMonad
