@@ -6,7 +6,7 @@ homepage:            https://github.com/githubuser/windowselect#readme
 license:             BSD3
 license-file:        LICENSE
 author:              Chayanon Wichitrnithed
-maintainer:          example@example.com
+maintainer:          namowi@gatech.edu
 copyright:           2017 Chayanon Wichitrnithed
 category:            Web
 build-type:          Simple
